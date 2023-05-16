@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Hi there. I am a super application to earn money.");
